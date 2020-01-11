@@ -4,7 +4,11 @@
 
 Today, we are gonna be learning about Actions on Google. To use Action on Google, we need to sign into the [actions on google console](https://console.actions.google.com/)
 To continue, sign into your console.
+
+
 ![DialogFlow](https://miro.medium.com/max/1600/1*CKWcaGCDR-qw1Q4LiwpwGQ.png)
+
+
 So today, we will develop a chatbot using Dialogflow and Actions on Google.
 let's talk go chatbot!
 
