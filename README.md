@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to DSC IIIT KOTA's workshop
 
-You can use the [editor on GitHub](https://github.com/Sanatan-Shrivastava/DialogFlow---DSC-Workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Today, we are gonna be learning about Actions on Google. To use Action on Google, we need to sign into the [actions on google console](https://console.actions.google.com/)
+To continue, sign into your console.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So today, we will develop a chatbot using Dialogflow and Actions on Google.
+let's talk go chatbot!
 
-```markdown
-Syntax highlighted code block
+### What is a chatbot?
 
-# Header 1
-## Header 2
-### Header 3
+At the most basic level, a chatbot is a computer program that simulates and processes human conversation (either written or spoken), allowing humans to interact with digital devices as if they were communicating with a real person. Chatbots can be as simple as rudimentary programs that answer a simple query with a single-line response, or as sophisticated as digital assistants that learn and evolve to deliver increasing levels of personalization as they gather and process information. 
 
-- Bulleted
-- List
+### What is DialogFlow, and how does it help?
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Dialogflow is an end-to-end, build-once deploy-everywhere development suite for creating conversational interfaces for websites, mobile applications, popular messaging platforms, and IoT devices. You can use it to build interfaces (such as chatbots and conversational IVR) that enable natural and rich interactions between your users and your business. Dialogflow Enterprise Edition users have access to Google Cloud Support and a service level agreement (SLA) for production deployments.
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sanatan-Shrivastava/DialogFlow---DSC-Workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Let's read further about it](https://towardsdatascience.com/understanding-the-basic-conversational-ai-concepts-with-dialogflow-b0604d957d5c)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Actions on Google, feel free to reach out to me on my contact number +91-6261972313 or mail me at sanatan.cseiiitk@gmail.com 
