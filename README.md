@@ -20,7 +20,7 @@ At the most basic level, a chatbot is a computer program that simulates and proc
 
 Dialogflow is an end-to-end, build-once deploy-everywhere development suite for creating conversational interfaces for websites, mobile applications, popular messaging platforms, and IoT devices. You can use it to build interfaces (such as chatbots and conversational IVR) that enable natural and rich interactions between your users and your business. Dialogflow Enterprise Edition users have access to Google Cloud Support and a service level agreement (SLA) for production deployments.
 
-### Jekyll Themes
+### Let's Medium it.
 [Let's read further about it](https://towardsdatascience.com/understanding-the-basic-conversational-ai-concepts-with-dialogflow-b0604d957d5c)
 
 ### Support or Contact
