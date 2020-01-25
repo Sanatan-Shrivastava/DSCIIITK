@@ -1,9 +1,16 @@
-## Welcome to DSC IIIT KOTA's workshop
+## Welcome to DSC IIIT KOTA - Workshop on Google.
+
+
+![Google Assistant](https://lh3.googleusercontent.com/23TzU98VChGFvna_j2PPl_15Wvw8TksyLcp82Ks3mH3neptwD3vSXzQrqHrDBrLP0To6cE1WKleh7ZvWwP_2OVmPpQ=w1200)
 
 
 
-Today, we are gonna be learning about Actions on Google. To use Action on Google, we need to sign into the [actions on google console](https://console.actions.google.com/)
+Today, we will learn about Actions on Google. To use Action on Google, we need to sign into the [actions on google console](https://console.actions.google.com/)
 To continue, sign into your console.
+
+### Types of actions.
+There are various kinds of actions, some are intent based, some are context based, or fallback-based.
+let's go through them.
 
 
 ![DialogFlow](https://miro.medium.com/max/1600/1*CKWcaGCDR-qw1Q4LiwpwGQ.png)
